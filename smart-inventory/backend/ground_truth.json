@@ -1,0 +1,47 @@
+[
+  {
+    "product_id": "P001",
+    "product": "Basmati Rice 5kg",
+    "expected": "low_stock"
+  },
+  {
+    "product_id": "P002",
+    "product": "Atta 10kg",
+    "expected": "low_stock"
+  },
+  {
+    "product_id": "P011",
+    "product": "Peanut Chikki",
+    "expected": "dead_stock"
+  },
+  {
+    "product_id": "P012",
+    "product": "Cold Drink 1.25L",
+    "expected": "spike"
+  },
+  {
+    "product_id": "P014",
+    "product": "Energy Drink",
+    "expected": "drop"
+  },
+  {
+    "product_id": "P015",
+    "product": "Mineral Water 1L",
+    "expected": "stockout"
+  },
+  {
+    "product_id": "P026",
+    "product": "Hair Oil 200ml",
+    "expected": "drop"
+  },
+  {
+    "product_id": "P027",
+    "product": "Notebook A4",
+    "expected": "spike"
+  },
+  {
+    "product_id": "P030",
+    "product": "Glue Stick",
+    "expected": "dead_stock"
+  }
+]
